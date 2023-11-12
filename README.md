@@ -26,9 +26,9 @@
  <p align="center">
  
     
-- **Enthusiastic learner focused on Data Engineering, Big Data, BI, and Data Analysis.**
-- **Data Management Trainee at Information Technology Institute (ITI) 9-month scholarship.**
-- **Fresh graduate Faculty of Computer Science and Artificial Intelligence at Hewlan University.**
+- **Enthusiastic learner focused on Data Engineering, Big Data,And BI.**
+- **Data Engineer Trainee at Information Technology Institute (ITI) 4-month scholarship.**
+- **Fresh graduate Faculty of Engineering at Alexandria University.**
 
  
  </p>
@@ -52,11 +52,6 @@
 - **Programming Languages**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-EE4C2C?style=for-the-badge&logo=CoffeeScript&logoColor=white)
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![GOLANG](https://img.shields.io/badge/GOLANG-298D46?style=for-the-badge&logo=GoLand&logoColor=white)
-    ![Solidity](https://img.shields.io/badge/Solidity-2C4F7C?style=for-the-badge&logo=Solidity&logoColor=white)
     ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Scala&logoColor=white)
    
 
@@ -71,7 +66,6 @@
    ![SSIS](https://img.shields.io/badge/SSIS-A4373A?style=for-the-badge&logo=MicrosoftAccess&logoColor=white)
    ![SSAS](https://img.shields.io/badge/SSAS-A4373A?style=for-the-badge&logo=MicrosoftAccess&logoColor=white)
    ![SSRS](https://img.shields.io/badge/SSRS-A4373A?style=for-the-badge&logo=MicrosoftAccess&logoColor=white)
-   ![BusinessObject](https://img.shields.io/badge/BusinessObject-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white)
 
 <br>
 
@@ -79,7 +73,6 @@
 
     ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=white)
     ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C1528?style=for-the-badge&logo=Soundcharts&logoColor=white)
-    ![BusinessObject WEBI](https://img.shields.io/badge/BusinessObjectWEBI-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white)
     
 <br>
 
@@ -94,23 +87,10 @@
     ![ApacheCassandra](https://img.shields.io/badge/ApacheCassandra-1287B1?style=for-the-badge&logo=ApacheCassandra&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 
-<br>
-
-- **Web Development**:
-
-    ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-    ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-    ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
-
- 
- <br>
  
  - **Block Chain**:
 
     ![Solidity](https://img.shields.io/badge/Solidity-2C4F7C?style=for-the-badge&logo=Solidity&logoColor=white)
-    ![Truffle Suit](https://img.shields.io/badge/Truffle-E05735?style=for-the-badge&logo=Blockchain.com&logoColor=white)
-    ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
     
 <br>
  
@@ -128,7 +108,15 @@
     ![Virtual Machines](https://img.shields.io/badge/VirtualMachines-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)
     
 <br>
- 
+
+  - **DevOps Tools**:
+
+    ![Docker](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+    ![Terraform](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+    ![Jenkins](https://img.shields.io/badge/VirtualMachines-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)
+    
+<br>
+
  - **Microsoft Office Tools**:
 
     ![Microsoft Excel](https://img.shields.io/badge/MicrosoftExcel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
@@ -160,29 +148,15 @@
  
 <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/dina-hosny/" target="blank"><img align="center"
+      <a href="[https://www.linkedin.com/in/dina-hosny](https://www.linkedin.com/in/alaarshg)" target="blank"><img align="center"
          src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="Dina Hosny" height="30"/></a>
-      <a href="https://fb.com/dinahosny0" target="blank"><img align="center"
-         src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="Dina Hosny" height="30"/></a>
-      <a href="dina-salamah@hotmail.com" target="blank"><img align="center"
+         alt="Alaa Haggag" height="30"/></a>
+      <a href="alaahgag34@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Mailgun&logoColor=white"
-         alt="Dina Hosny" height="30"/></a>
+         alt="Alaa Haggag" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://instagram.com/dina_ho" target="blank"><img align="center"
-         src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=HackerRank&logoColor=white"
-         alt="Dina Hosny" height="30"/></a>
-      <a href="https://twitter.com/dinahosny_s" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="Dina Hosny" height="30"/></a>
-      <a href="https://www.hackerrank.com/@dina_salamah" target="blank"><img align="center"
-         src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"
-         alt="Dina Hosny" height="30"/></a>
-      <a href="https://www.behance.net/dina-hosny" target="blank"><img align="center"
-         src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white"
-         alt="Dina Hosny" height="30"/></a>	
+
 	
  </samp>
 </div>
