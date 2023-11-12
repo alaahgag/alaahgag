@@ -111,9 +111,9 @@
 
   - **DevOps Tools**:
 
-    ![Docker](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-    ![Terraform](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-    ![Jenkins](https://img.shields.io/badge/VirtualMachines-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+    ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white)
+    ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
     
 <br>
 
@@ -148,7 +148,7 @@
  
 <p align="center">
       <br/>
-      <a href="[https://www.linkedin.com/in/dina-hosny](https://www.linkedin.com/in/alaarshg)" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/alaarshg/" target="blank"><img align="center"
          src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="Alaa Haggag" height="30"/></a>
       <a href="alaahgag34@gmail.com" target="blank"><img align="center"
@@ -162,53 +162,4 @@
 </div>
 </details>
 
-
-<br>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-
-<details>
-  <summary><picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> GitHub Account's Status</summary>
-<div>
-<samp>
-
- 
-<p align="center">
-      
-	
-
-<img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dina-hosny&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Dina Hosny" 
-    bg_color=#808080/>
-	
-</p>
-	
-	
-<br>
-	
-<p align="center">
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dina-hosny&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Dina Hosny" />
-	
-</p>
-
-<br>
-	
-<p align="center">
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dina-hosny&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="
-	Dina Hosny" />
-	
-</p>
-	
-	
-  	
- </samp>
-</div>
-</details>
 
